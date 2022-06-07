@@ -1,0 +1,21 @@
+{
+  "name": "sponsors",
+  "version": "1.0.0",
+  "description": "List of sponsors",
+  "scripts": {
+    "generate": "sponsorkit"
+  },
+  "keywords": [
+    "ivanhofer",
+    "sponsors"
+  ],
+  "author": "ivanhofer",
+  "license": "MIT",
+  "devDependencies": {
+    "sponsorkit": "^0.4.1"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/ivanhofer"
+  }
+}
