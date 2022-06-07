@@ -3,7 +3,9 @@
 [Become a sponsor :heart:](https://github.com/sponsors/ivanhofer) if you want to support my open source contributions.
 
 <p align="center">
-	<img src="./sponsorkit/sponsors.svg" alt="ivanhofer's Sponsors"
+   <a href="https://cdn.jsdelivr.net/gh/ivanhofer/sponsors/sponsorkit/sponsors.svg" title="ivanhofer's sponsors">
+      <img src="./sponsorkit/sponsors.svg" alt="ivanhofer's sponsors" />
+   </a>
 </p>
 
 <p align="center">
