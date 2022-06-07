@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "List of sponsors",
   "scripts": {
-    "generate": "sponsorkit"
+    "build": "sponsorkit"
   },
   "keywords": [
     "ivanhofer",
