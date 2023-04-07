@@ -23,6 +23,8 @@ jobs:
           node-version: 18.x
           cache: 'pnpm'
 
+      - run: pnpm install --no-save
+
       - name: Update sponsors
         run: npm run build
         env:
