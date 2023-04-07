@@ -12,7 +12,7 @@
   "author": "ivanhofer",
   "license": "MIT",
   "devDependencies": {
-    "sponsorkit": "^0.4.1"
+    "sponsorkit": "^0.8.3"
   },
   "funding": {
     "type": "github",

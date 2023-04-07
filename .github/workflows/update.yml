@@ -13,12 +13,15 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 8.1.1
+
       - name: Set node
         uses: actions/setup-node@v2
         with:
-          node-version: 16.x
-
-      - run: npx pnpm i
+          node-version: 18.x
+          cache: 'pnpm'
 
       - name: Update sponsors
         run: npm run build
