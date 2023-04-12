@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "List of sponsors",
   "scripts": {
-    "build": "sponsorkit"
+    "build": "sponsorkit",
+    "dev": "dotenv -e ./.env -- sponsorkit"
   },
   "keywords": [
     "ivanhofer",
@@ -12,6 +13,7 @@
   "author": "ivanhofer",
   "license": "MIT",
   "devDependencies": {
+    "dotenv-cli": "^7.2.1",
     "sponsorkit": "^0.8.3"
   },
   "funding": {
